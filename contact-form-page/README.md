@@ -1,3 +1,5 @@
+<img width="1905" height="986" alt="image" src="https://github.com/user-attachments/assets/60d408c1-368d-4ed1-be9f-6db11eaccabe" />
+
 # ⚡ React Contact Form — Developer Revision Notes
 
 Built from scratch to master React fundamentals, component thinking, and modern CSS layout techniques.
