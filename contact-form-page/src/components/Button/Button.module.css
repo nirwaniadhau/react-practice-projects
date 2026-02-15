@@ -1,0 +1,23 @@
+.top_btn{
+    padding:15px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    min-width: 290px;
+    font-weight: 560;
+
+}
+
+
+.bottom_btn{
+    padding:15px;
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    max-width: 100% ;
+    display: flex;
+    justify-content: center;
+    min-width: 600px;
+    font-weight: 500;
+
+}
